@@ -1,6 +1,6 @@
 # Web Raccoon - NACTCH Recon Toolkit
 
-![Web Raccoon](web-raccoon.png)
+![Web Raccoon](logo.png)
 
 ## Overview
 
