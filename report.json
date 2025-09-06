@@ -1,0 +1,79 @@
+{
+  "target": "oipasu.edu.eg",
+  "timestamp": "2025-09-06T20:45:38.941640+00:00",
+  "findings": [],
+  "dns": {
+    "resolved_ips": [
+      "41.196.200.188"
+    ],
+    "findings": []
+  },
+  "subdomains": [
+    {
+      "host": "www.oipasu.edu.eg",
+      "ips": [
+        "1.2.3.4"
+      ]
+    },
+    {
+      "host": "mail.oipasu.edu.eg",
+      "ips": [
+        "1.2.3.4"
+      ]
+    }
+  ],
+  "whois": {
+    "whois": {
+      "raw": "% IANA WHOIS server\n% for more information on IANA, visit http://www.iana.org\n% This query returned 1 object\n\nrefer:        \n\ndomain:       EG\n\norganisation: Egyptian Universities Network (EUN), Supreme Council of Universities\naddress:      Cairo University\naddress:      Giza - Orman\naddress:      Cairo 268\naddress:      Egypt\n\ncontact:      administrative\nname:         Egyptian Universities Network (EUN)\norganisation: Egyptian Universities Network (EUN)\norganisation: Supreme Council of Universities\naddress:      Cairo University\naddress:      Giza - Orman\naddress:      Cairo 268\naddress:      Egypt\nphone:        +202 33458366\nfax-no:       +202 33458365\ne-mail:       admin@egregistry.eg\n\ncontact:      technical\nname:         Egyptian Universities Network (EUN)\norganisation: Egyptian Universities Network (EUN)\norganisation: Supreme Council of Universities\naddress:      Cairo University\naddress:      Giza - Orman\naddress:      Cairo 268\naddress:      Egypt\nphone:        +202 33458366\nfax-no:       +202 33458365\ne-mail:       tech@egregistry.eg\n\nnserver:      DNS-EG.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:8 78.104.145.8\nnserver:      FRCU.EUN.EG 193.227.1.1\nnserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39\n\nwhois:        \n\nstatus:       ACTIVE\nremarks:      Registration information: http://www.egregistry.eg/\n\ncreated:      1990-11-30\nchanged:      2025-08-22\nsource:       IANA\n\n"
+    }
+  },
+  "open_ports": [
+    {
+      "port": 21,
+      "open": true
+    },
+    {
+      "port": 25,
+      "open": true
+    },
+    {
+      "port": 80,
+      "open": true
+    },
+    {
+      "port": 443,
+      "open": true
+    }
+  ],
+  "tls": {
+    "subject": [
+      [
+        [
+          "commonName",
+          "www.oipasu.edu.eg"
+        ]
+      ]
+    ],
+    "issuer": [
+      [
+        [
+          "countryName",
+          "US"
+        ]
+      ],
+      [
+        [
+          "organizationName",
+          "Let's Encrypt"
+        ]
+      ],
+      [
+        [
+          "commonName",
+          "R12"
+        ]
+      ]
+    ],
+    "valid": true
+  }
+}
