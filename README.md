@@ -1,6 +1,6 @@
 # Web Raccoon - NACTCH Recon Toolkit
 
-![NACTCH Logo]([https://via.placeholder.com/600x100?text=NACTCH+Web+Raccoon](https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjhiY2EwY2Q3ODQwODE5MWEzYjIzZThkY2IwMjcwOWU6ZmlsZV8wMDAwMDAwMGIwOTg2MWY0YWViZmY1YWVmZmQ4N2VkYSIsInRzIjoiNDg4MTA5IiwicCI6InB5aSIsInNpZyI6ImY3ZDJlYzIyZTc4NzBmOWQyM2ZlMWI0OWEwZDc2ZTBhNGJkMjRmZGZmMjgzMGEzY2I4ZTE3YWVhYzk5MDlmOWYiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsLCJjcCI6bnVsbH0=))
+![Web Raccoon](web-raccoon.png)
 
 ## Overview
 
@@ -56,7 +56,7 @@ python3 main.py
 ▐█▌██▐█▌▐█▄▄▌██▄▪▐█  ▐█•█▌▐█▪ ▐▌▐███▌▐███▌▐█▌.▐▌▐█▌.▐▌██▐█▌
  ▀▀▀▀ ▀▪ ▀▀▀ ·▀▀▀▀   .▀  ▀ ▀  ▀ ·▀▀▀ ·▀▀▀  ▀█▄▀▪ ▀█▄▀▪▀▀ █▪
 
-                         by nactch
+                         by nacttch
 
 --------------------------------------------------
 Enter target URL: https://example.com
