@@ -78,7 +78,13 @@ Reports are saved in the `report/` folder:
 
 ## Demo Video
 
-[![Watch the video on YouTube](https://youtu.be/mA0hDI1m2Ac?si=YANMA3gdOy8UEQhj)
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/mA0hDI1m2Ac" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
 
 ## License
 
