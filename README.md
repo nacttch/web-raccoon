@@ -76,6 +76,10 @@ Reports are saved in the `report/` folder:
 * `report.json` — machine-readable JSON report.
 * `report.html` — visually formatted HTML report.
 
+## Demo Video
+
+[![Watch the video on YouTube](https://img.youtube.com/vi/mA0hDI1m2Ac/hqdefault.jpg)](https://youtu.be/mA0hDI1m2Ac?si=YANMA3gdOy8UEQhj)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
