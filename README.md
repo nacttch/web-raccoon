@@ -78,7 +78,7 @@ Reports are saved in the `report/` folder:
 
 ## Demo Video
 
-Watch the demo on YouTube: [https://youtu.be/mA0hDI1m2Ac?si=YANMA3gdOy8UEQhj](https://youtu.be/mA0hDI1m2Ac?si=YANMA3gdOy8UEQhj)
+Watch the demo on YouTube: [demo](https://youtu.be/mA0hDI1m2Ac?si=YANMA3gdOy8UEQhj)
 
 ## License
 
